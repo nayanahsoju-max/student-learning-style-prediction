@@ -1,0 +1,201 @@
+Student_ID,Age,Hours_Study,Sleep_Hours,Past_Score,Preferred_Style,Algebra_Skill,Stress_Level,Performance_Improvement,Recommendation
+1,25,1.8,7.7,55,Visual,Weak,High,Low,Video-based algebra lessons + daily practice
+2,16,5.7,8.5,45,Kinesthetic,Average,Low,Low,Hands-on projects and practical exercises
+3,15,1.2,5.1,72,Kinesthetic,Weak,High,Low,Improve sleep routine and stress management
+4,23,2.4,7.2,74,Verbal,Weak,Medium,Low,Reading material and group discussions
+5,22,5.1,8.0,40,Visual,Strong,Low,Low,Balanced study plan with practice tests
+6,21,3.4,4.8,88,Verbal,Weak,High,Low,Improve sleep routine and stress management
+7,16,3.7,5.8,62,Kinesthetic,Average,Medium,Medium,Hands-on projects and practical exercises
+8,15,6.1,6.7,64,Visual,Strong,Low,Medium,Balanced study plan with practice tests
+9,19,6.8,7.1,95,Verbal,Strong,Low,High,Reading material and group discussions
+10,18,5.9,4.2,54,Verbal,Weak,High,Low,Improve sleep routine and stress management
+11,18,7.1,5.9,69,Kinesthetic,Average,Medium,Medium,Hands-on projects and practical exercises
+12,17,3.6,5.0,57,Kinesthetic,Strong,Medium,Medium,Hands-on projects and practical exercises
+13,25,1.5,7.2,74,Kinesthetic,Weak,High,Low,Hands-on projects and practical exercises
+14,17,4.2,5.3,80,Kinesthetic,Strong,Medium,High,Hands-on projects and practical exercises
+15,18,5.8,8.2,89,Visual,Weak,Low,Low,Video-based algebra lessons + daily practice
+16,15,6.6,6.0,44,Visual,Strong,Medium,Low,Balanced study plan with practice tests
+17,20,2.5,6.5,81,Verbal,Weak,Medium,Low,Reading material and group discussions
+18,19,2.0,7.7,74,Verbal,Strong,Medium,High,Reading material and group discussions
+19,24,4.0,6.9,63,Visual,Weak,Low,Low,Video-based algebra lessons + daily practice
+20,23,4.5,7.8,95,Visual,Weak,Low,Low,Video-based algebra lessons + daily practice
+21,25,2.1,7.4,78,Visual,Average,Medium,High,Balanced study plan with practice tests
+22,21,5.2,6.3,56,Kinesthetic,Weak,Low,Low,Hands-on projects and practical exercises
+23,25,6.0,7.4,74,Verbal,Strong,Low,High,Reading material and group discussions
+24,20,1.8,6.2,69,Visual,Strong,High,Medium,Balanced study plan with practice tests
+25,19,7.8,7.8,72,Visual,Strong,Low,High,Balanced study plan with practice tests
+26,19,6.9,6.5,52,Visual,Average,Low,Low,Balanced study plan with practice tests
+27,17,4.8,7.9,73,Visual,Strong,Low,High,Balanced study plan with practice tests
+28,20,4.4,4.6,63,Verbal,Weak,High,Low,Improve sleep routine and stress management
+29,15,2.7,6.8,45,Visual,Strong,Medium,Low,Balanced study plan with practice tests
+30,22,6.7,8.9,74,Visual,Weak,Low,Low,Video-based algebra lessons + daily practice
+31,25,4.3,6.7,56,Kinesthetic,Strong,Low,Medium,Hands-on projects and practical exercises
+32,21,7.8,8.6,88,Kinesthetic,Strong,Low,High,Hands-on projects and practical exercises
+33,18,6.0,6.0,82,Kinesthetic,Average,Medium,High,Hands-on projects and practical exercises
+34,22,7.3,6.3,55,Visual,Weak,Low,Low,Video-based algebra lessons + daily practice
+35,20,1.1,6.8,77,Visual,Weak,High,Low,Video-based algebra lessons + daily practice
+36,16,6.0,4.3,44,Visual,Average,High,Low,Improve sleep routine and stress management
+37,16,4.6,5.4,71,Visual,Strong,Medium,High,Balanced study plan with practice tests
+38,17,6.1,8.4,76,Verbal,Weak,Low,Low,Reading material and group discussions
+39,22,6.7,5.0,46,Kinesthetic,Average,Medium,Low,Hands-on projects and practical exercises
+40,20,4.0,6.3,86,Visual,Strong,Low,High,Balanced study plan with practice tests
+41,25,7.9,4.5,65,Kinesthetic,Average,High,Medium,Improve sleep routine and stress management
+42,16,2.7,5.0,68,Visual,Average,Medium,Medium,Balanced study plan with practice tests
+43,17,2.9,5.2,44,Verbal,Strong,Medium,Low,Reading material and group discussions
+44,16,1.4,9.0,93,Visual,Weak,High,Low,Video-based algebra lessons + daily practice
+45,18,2.2,6.4,53,Verbal,Weak,Medium,Low,Reading material and group discussions
+46,17,3.7,8.9,56,Verbal,Average,Medium,Medium,Reading material and group discussions
+47,21,5.9,7.7,90,Kinesthetic,Strong,Low,High,Hands-on projects and practical exercises
+48,22,2.1,5.5,43,Kinesthetic,Strong,Medium,Low,Hands-on projects and practical exercises
+49,23,1.4,5.6,43,Kinesthetic,Average,High,Low,Improve sleep routine and stress management
+50,23,7.4,6.7,43,Kinesthetic,Weak,Low,Low,Hands-on projects and practical exercises
+51,17,1.5,4.3,95,Visual,Average,High,High,Improve sleep routine and stress management
+52,16,7.6,6.8,77,Kinesthetic,Weak,Low,Low,Hands-on projects and practical exercises
+53,24,1.6,7.3,76,Kinesthetic,Average,High,High,Hands-on projects and practical exercises
+54,19,2.4,7.6,55,Verbal,Average,Medium,Medium,Reading material and group discussions
+55,17,5.7,5.5,60,Visual,Weak,Medium,Low,Video-based algebra lessons + daily practice
+56,22,5.3,6.8,46,Visual,Strong,Low,Low,Balanced study plan with practice tests
+57,18,4.5,4.7,62,Visual,Weak,High,Low,Video-based algebra lessons + daily practice
+58,20,3.0,6.2,74,Kinesthetic,Average,Medium,High,Hands-on projects and practical exercises
+59,24,7.9,8.0,73,Visual,Strong,Low,High,Balanced study plan with practice tests
+60,23,3.1,7.3,48,Verbal,Weak,Medium,Low,Reading material and group discussions
+61,16,6.2,4.8,58,Kinesthetic,Weak,High,Low,Improve sleep routine and stress management
+62,20,2.4,7.2,56,Kinesthetic,Average,Medium,Medium,Hands-on projects and practical exercises
+63,19,7.3,8.2,45,Kinesthetic,Average,Low,Low,Hands-on projects and practical exercises
+64,19,1.3,5.7,48,Kinesthetic,Average,High,Low,Improve sleep routine and stress management
+65,17,6.2,6.8,67,Kinesthetic,Weak,Low,Low,Hands-on projects and practical exercises
+66,16,1.5,8.4,49,Kinesthetic,Weak,High,Low,Hands-on projects and practical exercises
+67,20,5.1,4.7,48,Visual,Average,High,Low,Improve sleep routine and stress management
+68,20,7.3,8.0,95,Visual,Average,Low,High,Balanced study plan with practice tests
+69,18,5.8,7.3,62,Kinesthetic,Average,Low,Medium,Hands-on projects and practical exercises
+70,24,6.2,8.6,55,Visual,Weak,Low,Low,Video-based algebra lessons + daily practice
+71,21,1.2,7.7,61,Verbal,Strong,High,Medium,Reading material and group discussions
+72,18,2.9,7.9,46,Verbal,Weak,Medium,Low,Reading material and group discussions
+73,22,2.6,8.1,69,Verbal,Average,Medium,Medium,Reading material and group discussions
+74,18,2.6,7.3,65,Verbal,Average,Medium,Medium,Reading material and group discussions
+75,16,7.8,5.4,81,Kinesthetic,Average,Medium,High,Hands-on projects and practical exercises
+76,25,7.9,6.7,41,Visual,Average,Low,Low,Balanced study plan with practice tests
+77,17,5.1,8.9,42,Visual,Strong,Low,Low,Balanced study plan with practice tests
+78,21,3.4,7.9,67,Kinesthetic,Strong,Medium,Medium,Hands-on projects and practical exercises
+79,16,3.7,6.9,56,Visual,Strong,Medium,Medium,Balanced study plan with practice tests
+80,21,1.0,8.6,74,Kinesthetic,Strong,High,High,Hands-on projects and practical exercises
+81,25,2.4,6.2,82,Verbal,Strong,Medium,High,Reading material and group discussions
+82,20,5.6,4.6,59,Kinesthetic,Average,High,Medium,Improve sleep routine and stress management
+83,25,3.9,6.0,58,Kinesthetic,Weak,Medium,Low,Hands-on projects and practical exercises
+84,18,3.9,8.7,83,Kinesthetic,Weak,Medium,Low,Hands-on projects and practical exercises
+85,24,5.0,6.0,93,Visual,Average,Medium,High,Balanced study plan with practice tests
+86,19,2.5,7.9,78,Kinesthetic,Average,Medium,High,Hands-on projects and practical exercises
+87,22,4.1,7.4,72,Verbal,Strong,Low,High,Reading material and group discussions
+88,17,5.6,5.4,82,Kinesthetic,Strong,Medium,High,Hands-on projects and practical exercises
+89,20,1.7,8.8,55,Kinesthetic,Average,High,Medium,Hands-on projects and practical exercises
+90,18,6.6,4.7,42,Visual,Average,High,Low,Improve sleep routine and stress management
+91,24,6.9,4.4,66,Kinesthetic,Strong,High,Medium,Improve sleep routine and stress management
+92,18,6.0,5.9,65,Visual,Weak,Medium,Low,Video-based algebra lessons + daily practice
+93,25,5.8,8.5,95,Visual,Average,Low,High,Balanced study plan with practice tests
+94,18,2.2,8.8,73,Verbal,Weak,Medium,Low,Reading material and group discussions
+95,23,2.7,8.2,69,Visual,Average,Medium,Medium,Balanced study plan with practice tests
+96,25,4.7,6.8,60,Verbal,Strong,Low,Medium,Reading material and group discussions
+97,23,4.0,8.5,68,Visual,Strong,Low,Medium,Balanced study plan with practice tests
+98,22,4.2,7.8,93,Kinesthetic,Average,Low,High,Hands-on projects and practical exercises
+99,23,4.4,5.2,68,Visual,Strong,Medium,Medium,Balanced study plan with practice tests
+100,19,2.6,5.7,74,Visual,Weak,Medium,Low,Video-based algebra lessons + daily practice
+101,17,2.6,7.5,85,Visual,Weak,Medium,Low,Video-based algebra lessons + daily practice
+102,21,3.9,6.7,66,Visual,Weak,Medium,Low,Video-based algebra lessons + daily practice
+103,21,3.7,7.8,84,Visual,Strong,Medium,High,Balanced study plan with practice tests
+104,21,4.3,8.7,59,Verbal,Average,Low,Medium,Reading material and group discussions
+105,23,6.2,6.7,78,Visual,Average,Low,High,Balanced study plan with practice tests
+106,18,2.9,6.4,64,Verbal,Strong,Medium,Medium,Reading material and group discussions
+107,25,6.6,7.6,93,Verbal,Weak,Low,Low,Reading material and group discussions
+108,24,4.7,8.5,77,Kinesthetic,Strong,Low,High,Hands-on projects and practical exercises
+109,15,1.6,6.1,95,Verbal,Weak,High,Low,Reading material and group discussions
+110,15,2.8,5.6,69,Verbal,Average,Medium,Medium,Reading material and group discussions
+111,21,2.9,8.8,66,Verbal,Weak,Medium,Low,Reading material and group discussions
+112,22,1.1,6.7,62,Visual,Strong,High,Medium,Balanced study plan with practice tests
+113,16,6.5,7.3,88,Visual,Weak,Low,Low,Video-based algebra lessons + daily practice
+114,18,6.9,7.1,55,Visual,Average,Low,Medium,Balanced study plan with practice tests
+115,25,1.8,8.7,69,Kinesthetic,Average,High,Medium,Hands-on projects and practical exercises
+116,20,2.2,7.0,87,Kinesthetic,Weak,Medium,Low,Hands-on projects and practical exercises
+117,17,7.8,4.5,41,Verbal,Strong,High,Low,Improve sleep routine and stress management
+118,25,7.4,5.9,85,Visual,Weak,Medium,Low,Video-based algebra lessons + daily practice
+119,24,5.8,7.1,46,Kinesthetic,Average,Low,Low,Hands-on projects and practical exercises
+120,25,5.2,4.6,76,Visual,Average,High,High,Improve sleep routine and stress management
+121,23,4.0,5.9,72,Kinesthetic,Average,Medium,High,Hands-on projects and practical exercises
+122,15,6.9,8.1,46,Verbal,Average,Low,Low,Reading material and group discussions
+123,25,7.2,6.3,49,Verbal,Weak,Low,Low,Reading material and group discussions
+124,23,7.8,5.4,91,Kinesthetic,Average,Medium,High,Hands-on projects and practical exercises
+125,22,4.0,7.7,57,Verbal,Weak,Low,Low,Reading material and group discussions
+126,16,3.0,6.3,88,Verbal,Strong,Medium,High,Reading material and group discussions
+127,24,5.7,5.7,71,Verbal,Weak,Medium,Low,Reading material and group discussions
+128,22,2.5,8.0,61,Verbal,Strong,Medium,Medium,Reading material and group discussions
+129,19,4.9,6.6,52,Visual,Weak,Low,Low,Video-based algebra lessons + daily practice
+130,21,4.4,7.8,84,Verbal,Strong,Low,High,Reading material and group discussions
+131,22,4.1,4.1,58,Visual,Average,High,Medium,Improve sleep routine and stress management
+132,18,3.1,6.9,70,Kinesthetic,Strong,Medium,Medium,Hands-on projects and practical exercises
+133,20,4.0,7.7,61,Verbal,Strong,Low,Medium,Reading material and group discussions
+134,22,2.9,5.3,47,Kinesthetic,Weak,Medium,Low,Hands-on projects and practical exercises
+135,20,1.8,6.7,88,Kinesthetic,Weak,High,Low,Hands-on projects and practical exercises
+136,18,2.5,6.4,86,Kinesthetic,Strong,Medium,High,Hands-on projects and practical exercises
+137,24,3.0,4.5,52,Verbal,Weak,High,Low,Improve sleep routine and stress management
+138,20,2.3,4.1,74,Visual,Average,High,High,Improve sleep routine and stress management
+139,15,7.8,6.8,84,Visual,Strong,Low,High,Balanced study plan with practice tests
+140,22,1.7,4.1,58,Verbal,Average,High,Medium,Improve sleep routine and stress management
+141,22,3.4,8.8,56,Verbal,Weak,Medium,Low,Reading material and group discussions
+142,16,3.8,4.4,80,Kinesthetic,Weak,High,Low,Improve sleep routine and stress management
+143,17,2.0,6.8,59,Visual,Weak,Medium,Low,Video-based algebra lessons + daily practice
+144,16,4.9,6.1,78,Kinesthetic,Weak,Low,Low,Hands-on projects and practical exercises
+145,23,3.7,8.5,59,Kinesthetic,Average,Medium,Medium,Hands-on projects and practical exercises
+146,19,5.0,4.3,87,Visual,Weak,High,Low,Video-based algebra lessons + daily practice
+147,25,2.5,7.3,50,Visual,Weak,Medium,Low,Video-based algebra lessons + daily practice
+148,23,1.5,4.0,68,Kinesthetic,Strong,High,Medium,Improve sleep routine and stress management
+149,22,3.0,5.2,85,Verbal,Strong,Medium,High,Reading material and group discussions
+150,22,1.5,5.2,56,Kinesthetic,Strong,High,Medium,Improve sleep routine and stress management
+151,25,6.6,5.0,47,Kinesthetic,Weak,Medium,Low,Hands-on projects and practical exercises
+152,25,2.0,5.3,49,Visual,Weak,Medium,Low,Video-based algebra lessons + daily practice
+153,17,6.5,7.0,92,Kinesthetic,Average,Low,High,Hands-on projects and practical exercises
+154,22,1.9,7.4,84,Verbal,Average,High,High,Reading material and group discussions
+155,23,4.8,6.2,78,Visual,Average,Low,High,Balanced study plan with practice tests
+156,20,5.2,4.1,54,Kinesthetic,Strong,High,Low,Improve sleep routine and stress management
+157,24,7.7,9.0,83,Verbal,Strong,Low,High,Reading material and group discussions
+158,15,6.3,4.9,73,Kinesthetic,Average,High,High,Improve sleep routine and stress management
+159,19,2.3,6.9,80,Verbal,Weak,Medium,Low,Reading material and group discussions
+160,22,3.4,5.7,82,Visual,Weak,Medium,Low,Video-based algebra lessons + daily practice
+161,20,3.9,6.5,82,Verbal,Strong,Medium,High,Reading material and group discussions
+162,15,4.2,5.6,60,Visual,Average,Medium,Medium,Balanced study plan with practice tests
+163,23,6.8,4.0,95,Kinesthetic,Average,High,High,Improve sleep routine and stress management
+164,21,1.4,6.6,79,Verbal,Strong,High,High,Reading material and group discussions
+165,22,6.3,5.0,75,Visual,Average,Medium,High,Balanced study plan with practice tests
+166,22,7.2,6.4,41,Kinesthetic,Strong,Low,Low,Hands-on projects and practical exercises
+167,18,6.0,5.6,40,Kinesthetic,Average,Medium,Low,Hands-on projects and practical exercises
+168,16,2.6,8.2,47,Verbal,Weak,Medium,Low,Reading material and group discussions
+169,25,6.8,6.5,85,Verbal,Strong,Low,High,Reading material and group discussions
+170,19,3.9,6.4,70,Visual,Average,Medium,Medium,Balanced study plan with practice tests
+171,23,2.0,5.0,78,Kinesthetic,Strong,Medium,High,Hands-on projects and practical exercises
+172,17,7.0,5.4,90,Verbal,Average,Medium,High,Reading material and group discussions
+173,23,2.9,4.0,86,Verbal,Strong,High,High,Improve sleep routine and stress management
+174,24,8.0,6.4,49,Verbal,Strong,Low,Low,Reading material and group discussions
+175,22,3.4,6.8,74,Verbal,Average,Medium,High,Reading material and group discussions
+176,20,7.1,8.9,55,Kinesthetic,Average,Low,Medium,Hands-on projects and practical exercises
+177,18,7.0,6.1,60,Kinesthetic,Average,Low,Medium,Hands-on projects and practical exercises
+178,21,3.7,7.3,92,Kinesthetic,Weak,Medium,Low,Hands-on projects and practical exercises
+179,22,7.8,4.6,77,Verbal,Weak,High,Low,Improve sleep routine and stress management
+180,22,1.7,8.6,40,Kinesthetic,Weak,High,Low,Hands-on projects and practical exercises
+181,21,7.1,8.8,44,Verbal,Average,Low,Low,Reading material and group discussions
+182,20,5.4,6.0,45,Verbal,Strong,Medium,Low,Reading material and group discussions
+183,23,3.7,5.6,85,Verbal,Strong,Medium,High,Reading material and group discussions
+184,15,5.3,5.2,83,Verbal,Weak,Medium,Low,Reading material and group discussions
+185,16,4.0,4.5,80,Kinesthetic,Weak,High,Low,Improve sleep routine and stress management
+186,22,2.2,5.5,41,Visual,Average,Medium,Low,Balanced study plan with practice tests
+187,15,3.1,5.9,49,Visual,Strong,Medium,Low,Balanced study plan with practice tests
+188,21,5.0,8.0,50,Visual,Weak,Low,Low,Video-based algebra lessons + daily practice
+189,24,7.1,7.1,55,Verbal,Strong,Low,Medium,Reading material and group discussions
+190,17,2.6,7.2,69,Verbal,Strong,Medium,Medium,Reading material and group discussions
+191,15,7.3,6.3,58,Kinesthetic,Strong,Low,Medium,Hands-on projects and practical exercises
+192,17,1.5,8.7,77,Verbal,Strong,High,High,Reading material and group discussions
+193,21,5.8,6.3,59,Visual,Average,Low,Medium,Balanced study plan with practice tests
+194,22,1.7,5.9,62,Kinesthetic,Average,High,Medium,Improve sleep routine and stress management
+195,19,1.2,8.2,65,Verbal,Weak,High,Low,Reading material and group discussions
+196,24,7.1,7.9,43,Kinesthetic,Strong,Low,Low,Hands-on projects and practical exercises
+197,22,6.8,8.5,89,Visual,Strong,Low,High,Balanced study plan with practice tests
+198,20,2.5,5.0,56,Kinesthetic,Strong,Medium,Medium,Hands-on projects and practical exercises
+199,25,5.8,4.7,46,Kinesthetic,Strong,High,Low,Improve sleep routine and stress management
+200,15,3.2,6.2,77,Verbal,Strong,Medium,High,Reading material and group discussions
